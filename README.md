@@ -82,7 +82,7 @@ OXETECH-DASHBOARD-ANALISE-DADOS/
 * Melhorar organização de projetos
 * Praticar Git e GitHub
 * Praticar Markdown
-* Construir portfólio
+* Construir Portfólio
   
 ---
 
