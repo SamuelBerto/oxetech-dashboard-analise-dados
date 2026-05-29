@@ -1,5 +1,9 @@
+# Exercício 04 - Número par ou ímpar
+
+# int() converte o valor digitado para número inteiro.
 numero = int(input("Digite um número inteiro: "))
 
+# Verifica se o resto da divisão por 2 é igual a 0
 if numero % 2 == 0:
     print(f"O número {numero} é PAR.")
 else:
