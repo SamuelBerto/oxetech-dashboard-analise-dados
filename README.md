@@ -7,11 +7,11 @@ Repositório criado para armazenar exercícios, materiais e projetos desenvolvid
 ## 📚 Conteúdo
 
 - Exercícios em Python
-- Materiais das aulas
 - PDFs de exercícios
-- Datasets utilizados nas análises
+- PDFs das Aulas
 - Projetos desenvolvidos ao longo do curso
-
+- Gifs das Atividades e Exercícios
+  
 ---
 
 ## 🛠️ Tecnologias utilizadas
@@ -19,23 +19,57 @@ Repositório criado para armazenar exercícios, materiais e projetos desenvolvid
 - Python
 - Git
 - GitHub
+- Markdown
+
+
+
+---
+## 📚 Exercícios das aulas
+
+![Exercícios](imagens/exercícios.gif)
 
 ---
 
-## 📂 Estrutura do projeto
+## 🏠 Atividades de Casa
+
+![Atividades](imagens/atividades.gif)
+
+---
+
+## 📂 Estrutura do Projeto
 
 ```
-oxetech-dashboard-analise-dados/
+OXETECH-DASHBOARD-ANALISE-DADOS/
 │
-├── README.md
+├── atividade/
+│   └── atividade_de_casa/
+│       ├── atividade_1.py
+│       ├── atividade_2.py
+│       ├── atividade_3.py
+│       ├── atividade_4.py
+│       └── Primeira lista de exercícios - Dashboards e Análise de Dados.pdf
 │
 ├── aulas/
-│   ├── pdf/
 │   ├── datasets/
-│   └── imagens/
+│   │   └── .gitkeep
+│   │
+│   └── pdf/
+│       └── Dashboards e Análise de Dados.pdf
 │
-└── exercicios/
-    └── pdf-exercicios/
+├── exercicios/
+│   ├── exerc-01.py
+│   ├── exerc-02.py
+│   ├── exerc-03.py
+│   └── exerc-04.py
+│
+├── imagens/
+│   ├── atividades.gif
+│   └── exercícios.gif
+│
+├── .gitattributes
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
@@ -44,26 +78,12 @@ oxetech-dashboard-analise-dados/
 
 * Praticar Python
 * Aprender análise de dados
-* Desenvolver dashboards
+* Desenvolvimento de dashboards
 * Melhorar organização de projetos
 * Praticar Git e GitHub
+* Praticar Markdown
 * Construir portfólio
-
----
-
-## 📌 Organização dos exercícios
-
-Os exercícios serão adicionados conforme o andamento das aulas.
-
-Exemplo:
-
-```
-exercicios/
-├── aula-01.py
-├── aula-02.py
-└── aula-03.py
-```
-
+  
 ---
 
 ## 📈 Futuras implementações
