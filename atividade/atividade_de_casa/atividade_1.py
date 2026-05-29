@@ -3,7 +3,6 @@
 #int() converte o valor digitado para número inteiro
 numero_inteiro = int(input("Digite um número inteiro: "))
 
-
 numero_inteiro_2 = int(input("Digite o segundo número inteiro: "))
 
 #Exibindo os resultados das operações matemáticas na tela
